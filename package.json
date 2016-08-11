@@ -1,0 +1,15 @@
+{
+  "name": "API-REST",
+  "version": "1.0.0",
+  "description": "API-REST usando nodejs,mongoose y express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SpokeLopez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.5"
+  }
+}
